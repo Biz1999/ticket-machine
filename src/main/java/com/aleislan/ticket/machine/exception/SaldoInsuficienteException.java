@@ -1,4 +1,4 @@
-package br.calebe.ticketmachine.exception;
+package com.aleislan.ticket.machine.exception;
 
 /**
  *

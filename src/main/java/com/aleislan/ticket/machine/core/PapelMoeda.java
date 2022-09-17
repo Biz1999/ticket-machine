@@ -1,4 +1,5 @@
-package br.calebe.ticketmachine.core;
+package com.aleislan.ticket.machine.core;
+
 
 /**
  *
